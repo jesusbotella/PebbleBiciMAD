@@ -22,3 +22,10 @@ Programada en Javascript, utilizando la librería Pebble.JS y CloudPebble
 **Desarrollado por**
 --------------------
 Jesús Botella · jesus.botella@gmail.com
+
+[![Twitter][2]][1] [![LinkedIn][3]][4]
+
+  [1]: http://twitter.com/sn00b
+  [2]: https://github.com/jesusbotella/PebbleBiciMAD/blob/master/social_icons/twitter.png?raw=true
+  [3]: https://linkedin.com/in/jesusbotella
+  [4]: https://github.com/jesusbotella/PebbleBiciMAD/blob/master/social_icons/linkedin.png?raw=true
