@@ -6,6 +6,6 @@ Programada en Javascript, utilizando la librería Pebble.JS y CloudPebble
 
 **Capturas de Pantalla**
 --------------------
-![Screenshot #1](https://raw.githubusercontent.com/jesusbotella/PebbleBiciMAD/master/screenshots/pebble_main.png)
+![Screenshot #1](https://raw.githubusercontent.com/jesusbotella/PebbleBiciMAD/master/screenshots/pebble_main.png?token=AEHp8L1lSvRjQ1kdOQE7IrJuNGAcFb1Oks5V8WUKwA%3D%3D)
 
-![Screenshot #2](https://raw.githubusercontent.com/jesusbotella/PebbleBiciMAD/master/screenshots/pebble_detail.png)
+![Screenshot #2](https://github.com/jesusbotella/PebbleBiciMAD/blob/master/screenshots/pebble_detail.png?raw=true)
