@@ -28,3 +28,7 @@ Jesús Botella · jesus.botella@gmail.com
   [2]: https://github.com/jesusbotella/PebbleBiciMAD/blob/master/social_icons/twitter.png?raw=true
   [3]: https://linkedin.com/in/jesusbotella
   [4]: https://github.com/jesusbotella/PebbleBiciMAD/blob/master/social_icons/linkedin.png?raw=true
+  
+----------
+
+¿Te ha resultado útil la aplicación y quieres donar algo? [paypal.me/jesusbotella](paypal.me/jesusbotella)
