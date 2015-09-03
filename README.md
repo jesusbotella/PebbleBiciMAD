@@ -31,4 +31,4 @@ Jesús Botella · jesus.botella@gmail.com
   
 ----------
 
-¿Te ha resultado útil la aplicación y quieres donar algo? [paypal.me/jesusbotella](paypal.me/jesusbotella)
+¿Te ha resultado útil la aplicación y quieres donar algo? [paypal.me/jesusbotella](https://paypal.me/jesusbotella)
