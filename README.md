@@ -18,3 +18,7 @@ Programada en Javascript, utilizando la librería Pebble.JS y CloudPebble
 - Marcar estaciones como favoritas para que sean encontradas fácilmente
 
 ¡Propón tu las nuevas mejoras que se te ocurran!
+
+**Desarrollado por**
+--------------------
+Jesús Botella · jesus.botella@gmail.com
