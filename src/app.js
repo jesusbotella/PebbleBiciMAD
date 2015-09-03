@@ -7,6 +7,7 @@
 var UI = require('ui');
 var getLocation = require('location.js');
 var getNearestStations = require('bicimad.js');
+var interface = require('interface');
 
 //Create and Show Loading SplashCard
 var splashCard = new UI.Card({
@@ -40,15 +41,8 @@ function showStations(json) {
   locationsMenu.show();
   splashCard.hide();
 
-  locationsMenu.on('select', function(event) {
-    // Show a card with clicked item details
-    var detailCard = new UI.Card({
-      title: locations[event.itemIndex].nombre,
-      body: locations[event.itemIndex].direccion + '. ' + locations[event.itemIndex].libres +' bicis libres.'
-    });
-
-    // Show the new Card
-    detailCard.show();
+  locationsMenu.on('select', function(e) {
+    interface.showDetails(locations[e.itemIndex]);
   });
 }
 
