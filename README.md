@@ -8,12 +8,11 @@ Programada en Javascript, utilizando la librería Pebble.JS y CloudPebble
 
 **Capturas de Pantalla**
 --------------------
-![Screenshot #1](https://raw.githubusercontent.com/jesusbotella/PebbleBiciMAD/master/screenshots/pebble_main.png?token=AEHp8L1lSvRjQ1kdOQE7IrJuNGAcFb1Oks5V8WUKwA%3D%3D) ![Screenshot #2](https://github.com/jesusbotella/PebbleBiciMAD/blob/master/screenshots/pebble_detail.png?raw=true)
+![Screenshot #1](https://raw.githubusercontent.com/jesusbotella/PebbleBiciMAD/master/screenshots/pebble_main.png?token=AEHp8L1lSvRjQ1kdOQE7IrJuNGAcFb1Oks5V8WUKwA%3D%3D) ![Screenshot #2](https://github.com/jesusbotella/PebbleBiciMAD/blob/master/screenshots/pebble_detail.png?raw=true) ![Screenshot #3](https://github.com/jesusbotella/PebbleBiciMAD/blob/master/screenshots/pebble_detai2l.png?raw=true) ![Screenshot #4](https://github.com/jesusbotella/PebbleBiciMAD/blob/master/screenshots/pebble_address.png?raw=true)
 
 **Próximas Mejoras**
 --------------------
 
-- Incluir más información en el detalle de cada estación.
 - Opciones configurables (Distancia máxima entre posición actual y estación)
 - Marcar estaciones como favoritas para que sean encontradas fácilmente
 
